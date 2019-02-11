@@ -6,7 +6,7 @@ using namespace std;
 
 int main(){
 	string data;
-	ifstream import("F:\\Comprograming\\ex9\\2.txt");
+	ifstream import("F:\\Comprograming\\ex9\\ex9\\2.txt");
 	float a,b,y=0;
 	int n;
 	cout<<"Enter min - max :";
